@@ -5,8 +5,15 @@
 
 ### Hammam Al-Malabeh
 
-Frontend or full-stack engineer.
+**Backend Software Engineer** specializing in distributed data systems, microservices architecture, and high-performance APIs.
 
-<a href="https://github.com/imhammam">GitHub</a> · <a href="https://imhammam.github.io/portfolio/">Website</a>
+---
 
-<sub>Solar System · planets are languages, comets are recent pushes · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+### 🛠️ Tech Stack
+* **Languages & Core:** C#, .NET / ASP.NET Core, TypeScript
+* **Architecture & Real-time:** Microservices, SignalR, RESTful APIs
+* **Databases & Tools:** SQL, Git, Vite
+
+---
+
+<a href="https://github.com/imhammam" target="_blank">GitHub</a> · <a href="https://imhammam.github.io/portfolio/" target="_blank">Portfolio Website</a>
